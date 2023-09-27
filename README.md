@@ -1,5 +1,6 @@
 - fix permission: sudo chown -R $USER web-video-call
-
+- node version: v18.16.0
+- nextjs web rtc: https://codesandbox.io/s/nextjs-webrtc-3kfph
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
