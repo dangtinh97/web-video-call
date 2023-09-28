@@ -1,11 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
   compiler: {
     // Enables the styled-components SWC transform
     styledComponents: true
   },
   images: {
-    domains: ['freesvg.org'],
+    domains: ['freesvg.org','e7.pngegg.com'],
   },
 }
 
